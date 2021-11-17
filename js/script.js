@@ -86,7 +86,6 @@ button.addEventListener("click", () => {
   }
 
   function convertToStar(string) {
-    // Store words
     let arrayOfString = string.split(" ");
     let middleWord = [];
     let result = [];
