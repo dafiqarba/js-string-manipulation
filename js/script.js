@@ -65,7 +65,7 @@ button.addEventListener("click", () => {
   function convertVowelsToFibonacci(string) {
     let vowels = "aiueoAIUEO";
     let arrayOfString = string.split("");
-    let fibonacciNum = [];
+    let fibonacciNum = [0];
     let previousNumber = 1;
     let presentNumber = 0;
     let sum = 0;
