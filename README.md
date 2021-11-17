@@ -7,4 +7,4 @@ Predefined conditions of output are as follow:
 3. replace vowels letters with a sequence of fibonacci
 
 Result:
-![Result Preview](https://github.com/dafiqarba/modifyStringJS/blob/main/result.png?raw=true)
+![Result Preview](https://github.com/dafiqarba/modifyStringJS/blob/main/img/result.png?raw=true)
